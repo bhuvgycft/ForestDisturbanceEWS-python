@@ -6,3 +6,5 @@ File 2_CloudCorrect.py removes clouds from the downloaded images.
 File 3_NDVI_CollectStats.py collects statistics from the training data.
 File 4_NDVI_Generate_ForestMask_and_Analyze_w_Regen.py analyzes images in the
   evaluation period for forest disturbance and regeneration.
+
+Review CodeExplanation.pdf for a more thorough explanation of the code.
